@@ -1,0 +1,3 @@
+amazon | angela@gmail.com | 12345
+netflix | angela@gmail.com | 4321
+asdf | angela@gmail.com | asdf
